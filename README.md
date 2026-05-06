@@ -85,14 +85,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [archive_20260505_115047](https://github.com/kianim2000/downloader/tree/main/downloads/archive_20260505_115047)
-
-2. [archive_20260505_134151](https://github.com/kianim2000/downloader/tree/main/downloads/archive_20260505_134151)
-
-3. [archive_20260506_043036](https://github.com/kianim2000/downloader/tree/main/downloads/archive_20260506_043036)
-
-4. [xwOX2jdnizjjTSNsV](https://github.com/kianim2000/downloader/tree/main/downloads/xwOX2jdnizjjTSNsV)
+1. [archive_20260506_170720](https://github.com/kianim2000/downloader/tree/main/downloads/archive_20260506_170720)
 
 ---
