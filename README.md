@@ -95,8 +95,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [tele-mirror-win-x64](https://github.com/kianim2000/downloader/tree/main/downloads/tele-mirror-win-x64)
+1. [v2rayNG_2.0.18_universal](https://github.com/kianim2000/downloader/tree/main/downloads/v2rayNG_2.0.18_universal)
 
 ---
