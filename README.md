@@ -93,8 +93,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [zLHsLdfDxKQ](https://github.com/kianim2000/downloader/tree/main/downloads/zLHsLdfDxKQ)
+1. [tele-mirror-win-x64](https://github.com/kianim2000/downloader/tree/main/downloads/tele-mirror-win-x64)
 
 ---
