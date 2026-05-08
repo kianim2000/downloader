@@ -99,10 +99,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [mhrv-rs-windows-amd64](https://github.com/kianim2000/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
-
-2. [v2rayNG_2.0.18_universal](https://github.com/kianim2000/downloader/tree/main/downloads/v2rayNG_2.0.18_universal)
+1. [MasterDnsVPN-GG-1.0.9-arm64-v8a](https://github.com/kianim2000/downloader/tree/main/downloads/MasterDnsVPN-GG-1.0.9-arm64-v8a)
 
 ---
