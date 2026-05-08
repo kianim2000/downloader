@@ -101,8 +101,12 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [MasterDnsVPN-GG-1.0.9-arm64-v8a](https://github.com/kianim2000/downloader/tree/main/downloads/MasterDnsVPN-GG-1.0.9-arm64-v8a)
+
+2. [masterdnsvpn-HN-1.2.2-arm64-v8a-release](https://github.com/kianim2000/downloader/tree/main/downloads/masterdnsvpn-HN-1.2.2-arm64-v8a-release)
 
 ---
